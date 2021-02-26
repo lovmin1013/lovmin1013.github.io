@@ -10,3 +10,12 @@
 [寶貝](https://twitter.com/bts_twt)
 
 ![寶貝](https://pbs.twimg.com/media/ElN2e-VXgAI3Dg5.jpg)
+
+## 課堂作業
+```C
+#include <stdio.h>
+int main()
+{
+  printf("Hello World !");
+}
+```
